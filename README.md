@@ -7,6 +7,6 @@ This project was generated with Vue CLI version 4.4.0.
 
 In the project directory, run:
 ```
-> yarn
+> yarn install
 > yarn serve
 ```
